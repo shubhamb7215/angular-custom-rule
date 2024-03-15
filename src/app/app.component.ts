@@ -11,4 +11,8 @@ export class AppComponent {
   SDH4HFJ() {
     console.log('My Function');
   }
+
+  SDH4HFJTHBS() {
+    console.log('My Function');
+  }
 }

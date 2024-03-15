@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class Test {
 
+  SDH4HFJ() {
+    console.log('My Function');
+  }
 }
